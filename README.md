@@ -3,6 +3,8 @@
 
 This analysis is mainly being conducted to understand the bike sharing platform of New York, study some key points in the usage around the peak months and try to use it to implement it for the Des Moines city based on some commonalities.
 
+[link to dashboard](https://public.tableau.com/profile/abhijit7673#!/vizhome/CityBikeSharing_16127354638340/AugustPeakHours)
+
 ## Results
 
 ![](Augst_peak_hours.png)
